@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fintech</string>
+    <string name="title_overview">Summary</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_scope">Purpose</string>
+    <string name="title_savings">Economies</string>
+    <string name="title_add">Adding</string>
+
+    <string name="currency"> FCFA</string>
+    <string name="income">Income</string>
+    <string name="outgoings">Outgoings</string>
+    <string name="from">from:</string>
+    <string name="until">to</string>
+</resources>

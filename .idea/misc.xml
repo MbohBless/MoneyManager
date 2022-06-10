@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.26666666666666666" />
+        <entry key="../../../Library/Android/sdk/platforms/android-30/data/res/layout/simple_list_item_1.xml" value="0.13796296296296295" />
+        <entry key="app/src/main/res/drawable/bottom_rect.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/cat_bank.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/cat_car.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/cat_movie.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/cat_other.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/cat_pet.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/ic_flat.xml" value="0.195" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.1215" />
+        <entry key="app/src/main/res/drawable/ic_next.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_overview_black_24dp.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_overview_lvl_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_savings_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_scope_black_24dp.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_statistics_black_24dp.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_up.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/res_splash.xml" value="0.1215" />
+        <entry key="app/src/main/res/drawable/top_corner_white_rect.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/white_rect.xml" value="0.1255" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/content_overview.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_add.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_add_income.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_add_other.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_add_outgoing.xml" value="0.2940771597403067" />
+        <entry key="app/src/main/res/layout/fragment_overview.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_savings.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_scope.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/fragment_statistics.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/general_upd_dialog.xml" value="0.39544677734375" />
+        <entry key="app/src/main/res/layout/icon_spinner_item.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/list_element.xml" value="0.4127517700195313" />
+        <entry key="app/src/main/res/layout/overview_dialog.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/savings_element.xml" value="0.3269989013671875" />
+        <entry key="app/src/main/res/layout/scope_add_dialog.xml" value="0.2578125" />
+        <entry key="app/src/main/res/layout/scope_dialog.xml" value="0.399609375" />
+        <entry key="app/src/main/res/layout/scope_element.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/statistics_dialog.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/update_outgoing_dialog.xml" value="0.2578125" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.2578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

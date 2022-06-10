@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_overview">
+
+    <fragment
+        android:id="@+id/navigation_overview"
+        android:name="github.groupa.fintech.overview.OverviewFragment"
+        android:label="@string/title_overview"
+        tools:layout="@layout/fragment_overview">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_statistics"
+        android:name="github.groupa.fintech.statistics.StatisticsFragment"
+        android:label="@string/title_statistics"
+        tools:layout="@layout/fragment_statistics"/>
+    <fragment
+        android:id="@+id/navigation_add"
+        android:name="github.groupa.fintech.add.AddFragment"
+        android:label="@string/title_add"
+        tools:layout="@layout/fragment_add"/>
+    <fragment
+        android:id="@+id/navigation_scope"
+        android:name="github.groupa.fintech.scope.ScopeFragment"
+        android:label="@string/title_scope"
+        tools:layout="@layout/fragment_scope"/>
+    <fragment
+        android:id="@+id/navigation_savings"
+        android:name="github.groupa.fintech.savings.SavingsFragment"
+        android:label="@string/title_savings"
+        tools:layout="@layout/fragment_savings"/>
+</navigation>
